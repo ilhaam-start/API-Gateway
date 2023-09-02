@@ -85,7 +85,7 @@ for tackling them among a team.
 As part of this project, it's expected that you:
 
 1. Do a data analysis on the country databases, figuring out what all the
-   columns mean (with the help of the [resources](https://github.com/ilhaam-start/data-engineering-in-the-cloud/tree/7cbe9f3c50840ce13cd9e6e7bc40a4697172edd9/resources), and how to
+   columns mean (with the help of the [resources](https://github.com/ilhaam-start/data-engineering-in-the-cloud/tree/7cbe9f3c50840ce13cd9e6e7bc40a4697172edd9/resources)), and how to
    handle the slightly messy data.
 2. Retro-engineer the data structures needed to make the Forage charts work,
    with the help of the [specifications](./specifications).
